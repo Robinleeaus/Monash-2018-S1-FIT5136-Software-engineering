@@ -10,6 +10,7 @@ For job seeker </br>
 •	View invitations </br>
 •	Modify skillsets </br>
 •	Logout </br>
+
 For recruiter </br>
 •	Registration and login </br>
 •	View created jobs </br>
