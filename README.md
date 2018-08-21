@@ -21,4 +21,4 @@ For job recruiter </br>
 •	Modify job skillsets </br>
 •	Logout </br>
 
-It is a group work with 3 other team members. I am mainly in charge of the Job Controller. CRUD and files read/write functions are included in the job controller. I also look after the validations for other controllers such as Account Controller.
+It is group work with 3 other team members. I am mainly in charge of the Job Controller. CRUD and files read/write functions are included in the job controller. I also look after the validations for other controllers such as Account Controller.
