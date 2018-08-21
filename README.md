@@ -11,7 +11,7 @@ For job seeker </br>
 •	Modify skillsets </br>
 •	Logout </br>
 
-For recruiter </br>
+For job recruiter </br>
 •	Registration and login </br>
 •	View created jobs </br>
 •	Modify account </br>
