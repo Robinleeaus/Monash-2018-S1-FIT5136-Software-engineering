@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UserInterface()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ UserInterface\r\n
+comment1.params=
+comment1.target=int\ startMenu()
+comment2.params=
+comment2.target=java.lang.String[]\ loginMenu()
+comment3.params=
+comment3.target=int\ jobSeekerMenu()
+comment4.params=
+comment4.target=int\ jobRecruiterMenu()
+numComments=5

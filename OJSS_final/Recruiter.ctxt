@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Recruiter()
+comment1.params=company
+comment1.target=Recruiter(java.lang.String)
+comment2.params=company
+comment2.target=void\ setCompany(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCompany()
+numComments=4

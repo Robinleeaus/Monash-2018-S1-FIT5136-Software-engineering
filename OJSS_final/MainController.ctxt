@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MainController()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ MainController\r\n
+comment1.params=
+comment1.target=void\ start()
+comment2.params=
+comment2.target=void\ matchJob()
+comment3.params=filePath\ user
+comment3.target=java.lang.Boolean\ isUserNameExists(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Check\ for\ unique\ user\ name\r\n
+comment4.params=filePathName\ uName\ pwd
+comment4.target=java.lang.Boolean\ areCredentialsCorrect(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ Check\ the\ user\ credentials\r\n
+comment5.params=UserName\ password\ path
+comment5.target=void\ addCredentialsToFile(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=6

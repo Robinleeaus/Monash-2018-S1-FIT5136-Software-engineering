@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JobMatchingController()
+comment1.params=jobSeeker\ job
+comment1.target=JobMatchingController(JobSeeker,\ Job)
+comment2.params=job\ jobSeeker
+comment2.target=int\ matchJobSeeker(Job,\ JobSeeker)
+numComments=3

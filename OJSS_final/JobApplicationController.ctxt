@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JobApplicationController()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ JobApplicationController\r\n
+comment1.params=
+comment1.target=void\ inputKeyword()
+comment2.params=jobList
+comment2.target=java.util.ArrayList\ searchJobs(java.util.ArrayList)
+comment3.params=jobName\ userName
+comment3.target=java.lang.Boolean\ applyJob(java.lang.String,\ java.lang.String)
+comment4.params=jobId
+comment4.target=java.util.ArrayList\ viewApplicants(java.lang.String)
+comment5.params=userName
+comment5.target=void\ sendInvitation(java.lang.String)
+comment6.params=userName
+comment6.target=void\ viewInvitation(java.lang.String)
+comment7.params=userName
+comment7.target=void\ displayAppliedJobs(java.lang.String)
+numComments=8

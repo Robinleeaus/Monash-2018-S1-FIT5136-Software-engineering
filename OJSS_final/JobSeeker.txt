@@ -1,0 +1,2 @@
+seeker1;seeker1;0412345678;seeker1@gmail.com;11-12-1990;java;python;sql;5 years;monash MIT
+seeker2;seeker2;0400123456;seeker2@gmail.com;11-10-1995;java;;;1 year;monash MIT
